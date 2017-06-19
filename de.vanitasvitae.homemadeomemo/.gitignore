@@ -1,0 +1,21 @@
+# IntelliJ
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Mac OS X
+.DS_Store
+
+.classpath
+.project
+.settings
+.gradle
+gradle.properties
+
+build/
+
+target/
+.metadata
+
+path/
